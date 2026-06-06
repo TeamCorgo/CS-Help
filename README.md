@@ -1,10 +1,9 @@
 <p align="center">
   <img src="./images/web_header.gif" alt="MissionForce: CyberStorm Logo">
 </p>
-A fan-driven historical archive dedicated to MissionForce: CyberStorm — Sierra’s dark, tactical science-fiction wargame that combined brutal turn-based combat, persistent pilots, and corporate warfare into one of the most unforgiving strategy experiences of the 1990s.
 
+# **Replacment [Help/Manual Website](https://www.corgo.org/cs-help/)** is online.
 
-# Help / Game Manual
 Given the complexity of the game’s mechanics, the absence of a proper physical manual was a disappointment [voiced by players](https://groups.google.com/g/comp.sys.ibm.pc.games.strategic/c/KwuVW36djSw/m/vDhxq69hIDsJ). 
 
 > "However, the choice to not have a paper  manual was not one that many were, shall we say, fond of." In addition to the lack of heft in the box, many missed explicitly detailed statistics for the weapons. Some wanted more things to be able to read off-line. Others had trouble printing sections of the manual on their printer."
