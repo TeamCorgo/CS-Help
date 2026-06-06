@@ -1,3 +1,26 @@
+<p align="center">
+  <img src="./images/web_header.gif" alt="MissionForce: CyberStorm Logo">
+</p>
+A fan-driven historical archive dedicated to MissionForce: CyberStorm — Sierra’s dark, tactical science-fiction wargame that combined brutal turn-based combat, persistent pilots, and corporate warfare into one of the most unforgiving strategy experiences of the 1990s.
+
+
+# Help / Game Manual
+Given the complexity of the game’s mechanics, the absence of a proper physical manual was a disappointment [voiced by players](https://groups.google.com/g/comp.sys.ibm.pc.games.strategic/c/KwuVW36djSw/m/vDhxq69hIDsJ). 
+
+> "However, the choice to not have a paper  manual was not one that many were, shall we say, fond of." In addition to the lack of heft in the box, many missed explicitly detailed statistics for the weapons. Some wanted more things to be able to read off-line. Others had trouble printing sections of the manual on their printer."
+>
+> — PATCH.TXT document (post install from v1.1)
+
+Modern operating systems are unable to open the original help reader `METALSTO.MVB`. While the GOG release includes the manual, all in-game calls to the help system have been disabled to prevent error messages from being displayed. The Bioderm donor history provides interesting background lore that is not directly presented during gameplay, but is preserved within the help system. As a result, new players typically miss this content entirely.
+
+<p align="center">
+  <img src="./images/example broken.png" alt="Error displayed from Medbay">
+</p>
+<p align="center">
+  <img src="./images/example working.png " alt="Working help example">
+</p>
+
+
 # Help System Extraction & Modernization
 
 The game references external Windows help and context files from within the game itself. Specifically, players are unable to access or read BGM donor history entries on modern systems. These help files consist of linked pages containing embedded image content.
