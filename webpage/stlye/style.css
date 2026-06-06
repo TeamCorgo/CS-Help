@@ -1,0 +1,13 @@
+body{
+	background: #000000;
+	color: #C0C0C0;
+	font-family: Times New Roman;
+	width: 640px;
+	margin: 0 auto;
+	text-align: left;
+	direction: ltr;
+}
+
+a {
+    color: #FFFF00;
+}

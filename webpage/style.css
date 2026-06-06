@@ -1,0 +1,17 @@
+body{
+	background: #000000;
+	color: #C0C0C0;
+	font-size: 10pt;
+	line-height: 125%;
+	font-family: Times New Roman;
+    font-size: large;
+	width: 640px;
+	margin: 0 auto;
+	text-align: left;
+	direction: ltr;
+}
+
+a:link{color: #FFFF00;}
+a:active{color: #02A902;}
+a:visited{color: #FFFF00;}
+a{text-decoration: none;}
